@@ -2,11 +2,28 @@
 ## 1.标题
 ```
 在文字前写#,注意文字与#之间有一个空格
+大标题（一级标题）：在文本下面加等于号，那么上方的文字就变成了大标题，等于号的个数无限制，但一定要大于0
+中标题（二级标题）：在文本下面加下划线，那么上方的文本就变成了中标题，下划线个数无限制，中标题比大标题低一级
 # 一级标题
 ## 二级标题
 ### 三级标题
-```
+#### 四级标题
+##### 五级标题
+###### 六级标题
+* 列表一  星号后面要有一个空格，否则为普通星号
+* 列表二
+* 列表三
+二级圆点、三级圆点：多加一个Tab，即第二行一个Tab，第三行两个Tab
+  * 列表一
+    * 列表二
+      * 列表三
+>缩进一
+>>缩进二
+>>>缩进三
+>>>>缩进四
+>>>>>缩进五
 
+```
 以此类推 
 或者用连续的减号或等号写在文字之下：
 
@@ -23,7 +40,7 @@
 ```
 ## 3.代码块
 ```
-键盘上的esc键下的那个键:```
+键盘Exc下面的按钮```,要实现语法高亮那么只要在 ``` 之后加上你的编程语言即可（忽略大小写）
 ```
 
 ## 4.表
@@ -54,7 +71,7 @@
 
 ```
 ![这个括号里写的在图片加载失败时显示](图片网址)
-
+URL写法：http://github.com/自己的用户名/项目名/raw/分支名/存放图片的文件夹/文件夹里的图片名字
 在github网页打开图片，浏览器显示的网址就是图片的地址了。 
 ```
 举例：
@@ -65,11 +82,9 @@
 <img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
 ```
 <img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
-
-
 ```
 接着如果又想让图片居中：
 <div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
 ```
 <div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
-效果： 
+
