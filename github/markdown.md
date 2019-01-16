@@ -89,4 +89,5 @@ URL写法：http://github.com/自己的用户名/项目名/raw/分支名/存放�
 ```
 <div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
 
-该文档格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)
+该文档格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/),
+[Github Markdown格式](https://github.com/DavidAnson/markdownlint/blob/v0.11.0/doc/Rules.md#md022)
