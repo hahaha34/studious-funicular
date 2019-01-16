@@ -1,3 +1,3 @@
 # studious-funicular
-
-[markdown语法](https://github.com/hahaha34/studious-funicular/blob/master/github/markdown.md/)
+### markdown基本使用
+- [markdown语法](https://github.com/hahaha34/studious-funicular/blob/master/github/markdown.md/)
